@@ -15,7 +15,7 @@ You can find me at
 | Background             | `#0B0B19` | `11, 11, 25`    | `240, 39%, 7%`  | ![Background Color](./palette/Background.png)                |
 | Variables,Properties   | `#A6D9FB` | `166, 217, 251` | `204, 91%, 82%` | ![Variables Color](./palette/Variables-Properties.png)       |
 | Keywords               | `#FFDFA7` | `255, 223, 167` | `38, 100%, 83%` | ![Keywords Color](./palette/Keywords.png)                    |
-| Foreground             | `#FFFFF0` | `255, 255, 240` | `60, 100%, 97%` | ![Foreground Color](./palette/foreground.png)                |
+| Foreground             | `#FFFFF0` | `255, 255, 240` | `60, 100%, 97%` | ![Foreground Color](./palette/Foreground.png)                |
 | Numbers                | `#FF84A7` | `255, 132, 167` | `343, 100%, 76%`| ![Numbers Color](./palette/Numbers.png)                      |
 | Classes, Constants     | `#CB86F9` | `203, 134, 249` | `276, 91%, 75%` | ![Classes Color](./palette/Classes-Constants.png)            |
 | Functions, Methods     | `#82AAFF` | `130, 170, 255` | `221, 100%, 75%`| ![Functions Color](./palette/Functions-Methods.png)          |
