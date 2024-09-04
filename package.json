@@ -1,0 +1,36 @@
+{
+  "name": "sweet-night",
+  "displayName": "Sweet Night",
+  "description": "A space-based theme",
+  "version": "0.1.0",
+  "publisher": "isabelagusmao97",
+  "icon": "sweet_night_icon.png",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/isagusmao97/sweet-night-dark-theme"
+  },
+  "keywords": [
+    "sweetnight",
+    "SweetNight",
+    "Sweet Night",
+    "Dark Themes",
+    "darkthemes",
+    "dark themes",
+    "theme"
+  ],
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sweet Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sweet Night-color-theme.json"
+      }
+    ]
+  }
+}
